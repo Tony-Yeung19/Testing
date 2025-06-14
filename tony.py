@@ -3,6 +3,7 @@ for index in range(5):
 
 x = 0
 while x != 5:
-    print("...")
+    print("Hello my name is adhir")
+    print("It's a pleasure to meet you")
     x += 1
 
